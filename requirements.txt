@@ -1,0 +1,6 @@
+transformers
+python-dotenv
+tensorflow==2.15.0
+langchain
+openai
+streamlit
